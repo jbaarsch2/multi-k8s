@@ -1,0 +1,3 @@
+ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All 
+ minikube start
+ 
